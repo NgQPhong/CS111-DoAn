@@ -1,0 +1,9 @@
+ROOT
+    clear
+        X
+    incr
+        X
+    while
+        X
+            decr
+                X
