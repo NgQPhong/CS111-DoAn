@@ -1,0 +1,11 @@
+clear Z;
+while X not 0 do
+	decr X;
+	incr Z;
+end;
+clear Y;
+while Z not 0 do
+	decr Z;
+	incr Y;
+	incr X;
+end;

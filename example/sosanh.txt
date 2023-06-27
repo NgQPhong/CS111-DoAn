@@ -1,0 +1,81 @@
+// X = 9
+// Y = 15
+
+clear X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+
+
+clear Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+
+
+// X = 11
+// Y = 6
+
+clear X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+
+
+clear Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+
+
+// X = 8
+// Y = 8
+
+clear X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+incr X;
+
+clear Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
+incr Y;
